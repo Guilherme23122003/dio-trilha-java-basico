@@ -18,7 +18,6 @@ public class NotasAlunos {
 
         double media = calcularMedia(notas);
         System.out.println("A média é de: " + media);
-
     }
 }
 
