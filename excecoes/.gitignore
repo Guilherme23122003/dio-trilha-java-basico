@@ -1,0 +1,14 @@
+# IDE IntelliJ
+.idea/
+*.iml
+
+# Build
+out/
+target/
+
+# Sistema
+*.log
+*.tmp
+
+# Outros
+.DS_Store
